@@ -10,6 +10,7 @@
   "maintainers": [
     { "name": "Greg Oseid", "email": "greg@oseid.net", "github": "goseid" }
   ],
+  "legacyIds": [],
   "products": ["Camera Shader"],
   "manufacturer": "goTech.tools",
   "keywords": ["goTech", "Camera Shading", "Color Correction", "Vectorscope"],
