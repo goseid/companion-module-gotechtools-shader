@@ -1,12 +1,12 @@
 {
-  "id": "gotech-shader",
+  "id": "gotechtools-shader",
   "name": "goTech Camera Shader",
   "shortname": "shader",
   "description": "Drive the goTech Camera Shading Simulator from a Bitfocus Companion control surface.",
   "version": "0.1.0",
   "license": "ISC",
-  "repository": "https://github.com/goseid/companion-module-gotech-shader",
-  "bugs": "https://github.com/goseid/companion-module-gotech-shader/issues",
+  "repository": "https://github.com/goseid/companion-module-gotechtools-shader",
+  "bugs": "https://github.com/goseid/companion-module-gotechtools-shader/issues",
   "maintainers": [
     { "name": "Greg Oseid", "email": "greg@oseid.net", "github": "goseid" }
   ],

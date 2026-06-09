@@ -1,4 +1,4 @@
-# companion-module-gotech-shader
+# companion-module-gotechtools-shader
 
 Bitfocus Companion module for the [goTech Camera Shading Simulator](https://gotech.tools/shading/).
 
@@ -20,8 +20,8 @@ Until this is published to the Bitfocus module registry, install it as a Compani
 1. **Clone** this repo somewhere your Companion install can reach:
 
    ```bash
-   git clone https://github.com/goseid/companion-module-gotech-shader.git
-   cd companion-module-gotech-shader
+   git clone https://github.com/goseid/companion-module-gotechtools-shader.git
+   cd companion-module-gotechtools-shader
    npm install
    ```
 
