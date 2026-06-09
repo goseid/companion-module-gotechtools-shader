@@ -1,0 +1,22 @@
+{
+  "id": "gotech-shader",
+  "name": "goTech Camera Shader",
+  "shortname": "shader",
+  "description": "Drive the goTech Camera Shading Simulator from a Bitfocus Companion control surface.",
+  "version": "0.1.0",
+  "license": "ISC",
+  "repository": "https://github.com/goseid/companion-module-gotech-shader",
+  "bugs": "https://github.com/goseid/companion-module-gotech-shader/issues",
+  "maintainers": [
+    { "name": "Greg Oseid", "email": "greg@oseid.net", "github": "goseid" }
+  ],
+  "products": ["Camera Shader"],
+  "manufacturer": "goTech.tools",
+  "keywords": ["goTech", "Camera Shading", "Color Correction", "Vectorscope"],
+  "runtime": {
+    "type": "node22",
+    "api": "nodejs-ipc",
+    "apiVersion": "1.0.0",
+    "entrypoint": "./src/main.js"
+  }
+}

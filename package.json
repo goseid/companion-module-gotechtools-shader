@@ -1,0 +1,19 @@
+{
+  "name": "companion-module-gotech-shader",
+  "version": "0.1.0",
+  "description": "Bitfocus Companion module for the goTech Camera Shading Simulator.",
+  "main": "src/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goseid/companion-module-gotech-shader.git"
+  },
+  "license": "ISC",
+  "author": "Greg Oseid <greg@oseid.net>",
+  "dependencies": {
+    "@companion-module/base": "^1.10.0",
+    "ws": "^8.21.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
